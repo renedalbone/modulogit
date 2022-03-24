@@ -61,4 +61,9 @@ git push origin :nome do branch
 DELETAR um branch local 
 git branch -D nome do branch
 
+para puxar uma atualização do github para local
+git pull origin nome do branch 
+
+CLONAR um projeto
+git cloje url do projeto 
 
