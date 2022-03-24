@@ -1,5 +1,8 @@
 Meu primeiro sistema no GIT
 
+PRIMEIRO PASSO
+	criar o repositório = git init
+
 
 alteração do readme
 
