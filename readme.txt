@@ -48,4 +48,17 @@ git remote
 para ver as opções digite
 git remote -v
 
+é possivel ignorar arquivos para não precisar adicionar ou commitar
+para isso deve criar um arquivo chamado gitignore e dentro dele colocar
+o nome dos aquivos que serão ignorados, pode ser *.extensão do arquivo.
+
+git revert = volta o commit sem perder o código
+git revert --no-edit <colocar a chave do ultimo commit>
+
+DELETAR um branch remoto = colocar o dois pontos
+git push origin :nome do branch
+
+DELETAR um branch local 
+git branch -D nome do branch
+
 
