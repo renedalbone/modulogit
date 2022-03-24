@@ -65,5 +65,5 @@ para puxar uma atualização do github para local
 git pull origin nome do branch 
 
 CLONAR um projeto
-git cloje url do projeto 
+git clone url do projeto 
 
