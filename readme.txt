@@ -35,3 +35,17 @@ para criar uma chave para concetar no github deve entrar no bash
 e colocar a linha de comando abaixo
 
  ssh-keygen -t rsa -b 4096 -C "dalbonerenedev@gmail.com"
+
+
+Para adicionar do local para o github
+git remote add origin https://github.com/renedalbone/modulogit.git
+git branch -M main
+git push -u origin main
+
+para ver o que tem digita
+git remote
+
+para ver as opções digite
+git remote -v
+
+
